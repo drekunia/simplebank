@@ -1,0 +1,3 @@
+DROP TABEL IF EXISTS "entries";
+DROP TABEL IF EXISTS "transfers";
+DROP TABEL IF EXISTS "accounts";
